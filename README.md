@@ -27,7 +27,7 @@ Open [http://localhost:3300](http://localhost:3300) to view it in your browser.
 
 ## 🔗 Links
 
-> ## Checkout the Website Link : https://nodejs-auth-project-4840.onrender.com/
+> ## Checkout the Website Link : https://santhoshreign.github.io/ECom_ProductInventory_Nodejs/
 > see results only on <b>Postman app</b> and <b>Mongodb compass</b>
 
 <br/>
@@ -37,20 +37,20 @@ Open [http://localhost:3300](http://localhost:3300) to view it in your browser.
 
 ### add new product
 
- [/public/images/addProduct.png]
+![Screenshot] (/public/images/addProduct.png)
 
 ### get all products
 
- [/public/images/getAllProducts.png]
+![Screenshot] (/public/images/getAllProducts.png)
 
 ### get specific product
 
- [/public/images/getSpecificProduct.png]
+![Screenshot] (/public/images/getSpecificProduct.png)
 
 ### delete product
 
-[/public/images/deleteProduct.png]
+![Screenshot] (/public/images/deleteProduct.png)
 
 ### update product quantity
 
-[/public/images/updateQuantity.png]
+![Screenshot] (/public/images/updateQuantity.png)
