@@ -37,20 +37,20 @@ Open [http://localhost:3300](http://localhost:3300) to view it in your browser.
 
 ### add new product
 
- (/images/addProduct.png)
+ [/public/images/addProduct.png]
 
 ### get all products
 
- (/images/getAllProducts.png)
+ [/public/images/getAllProducts.png]
 
 ### get specific product
 
- (/images/getSpecificProduct.png)
+ [/public/images/getSpecificProduct.png]
 
 ### delete product
 
-(/images/deleteProduct.png)
+[/public/images/deleteProduct.png]
 
 ### update product quantity
 
-(/images/updateQuantity.png)
+[/public/images/updateQuantity.png]
